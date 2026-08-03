@@ -1,0 +1,6 @@
+# Codex working files
+work/
+
+# OS files
+.DS_Store
+Thumbs.db
